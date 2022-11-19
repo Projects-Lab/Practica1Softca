@@ -7,3 +7,6 @@ Comandos Utilizados
 3. Git Clone https://github.com/Projects-Lab/Practica1Softca.git
 4. cd Practica1Softca
 5. nano Readme.md 
+
+
+prueba prueba
